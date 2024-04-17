@@ -1,7 +1,7 @@
 ---
 publishDate: 2024-04-17T00:00:00Z
 title: 'Digital Mentor for Team Leaders and Novice Managers'
-excerpt: 
+excerpt: Boost your management mindset • 135 tasks in 9 topics 🕓 Two months • Certificate of Accomplishment
 image: ~/images/digital-mentor.png
 tags:
   - google talles
@@ -12,7 +12,7 @@ metadata:
 ---
 
 # Digital Mentor for Team Leaders and Novice Managers
-Tabunn is a script that copies Google tables in the required quantity with the necessary modifications (names, numbering, username, etc.).
+Boost your management mindset • 135 tasks in 9 topics 🕓 Two months • Certificate of Accomplishment
 
 ## Origin 
 ! [We have interactive courses] (https://eduhund.gumroad.com/l/bosses?_gl=1*19igkme*_ga*MjA0NjQzODgwMS4xNzEyMjk5MjUw*_ga_6LJN6D94N6*MTcxMzM0MTk2Mi40LjEuMTcxMzM0MzU5OS4wLjAuMA) (task books) in various areas: UX design, management, UX writing, marketing and much more. Their first versions were in Google Sheets and looked like this.

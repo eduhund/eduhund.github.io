@@ -1,7 +1,7 @@
 ---
 publishDate: 2024-04-17T00:00:00Z
 title: 'Digital Mentor (promo)'
-excerpt: 
+excerpt: Boost your management mindset • Free promotional module 🕓 One week • 10 tasks
 image: ~/images/digital-mentor-promo.png
 tags:
   - google talles
@@ -11,8 +11,8 @@ metadata:
   canonical: https://astrowind.vercel.app/landing 
 ---
 
-# Digital Mentor for Team Leaders and Novice Managers
-Tabunn is a script that copies Google tables in the required quantity with the necessary modifications (names, numbering, username, etc.).
+# Promo: Digital Mentor for Team Leaders and Novice Managers
+Boost your management mindset • Free promotional module 🕓 One week • 10 tasks
 
 ## Origin 
 ! [We have interactive courses] (https://eduhund.gumroad.com/l/bosses?_gl=1*19igkme*_ga*MjA0NjQzODgwMS4xNzEyMjk5MjUw*_ga_6LJN6D94N6*MTcxMzM0MTk2Mi40LjEuMTcxMzM0MzU5OS4wLjAuMA) (task books) in various areas: UX design, management, UX writing, marketing and much more. Their first versions were in Google Sheets and looked like this.
