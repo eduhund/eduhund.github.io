@@ -23,17 +23,25 @@ export const headerData = {
         },
         {
           text: 'Tabunn',
-          href: getPermalink('Tabunn', 'post'),
+          href: getPermalink('tabunn', 'post'),
+        },
+        {
+          text: 'Textile',
+          href: getPermalink('textile', 'post'),
+        },
+        {
+          text: 'Digital Mentor',
+          href: getPermalink('digital-mentor', 'post'),
+        },
+        {
+          text: 'Digital Mentor Promo',
+          href: getPermalink('digital-mentor-promo', 'post'),
         },
         {
           text: 'Markdown Elements',
           href: getPermalink('markdown-elements-demo-post', 'post'),
         }
       ],
-    },
-    {
-      text: 'Widgets',
-      href: '#',
     },
   ],
   actions: [{ text: 'Download', href: 'https://script.google.com/macros/library/d/1zvbXSUJNskKse8GiWSUskfUc1hI4q4Z-7oU0Oe-doWyUywwNuCLPlg9i/1', target: '_blank' }],
