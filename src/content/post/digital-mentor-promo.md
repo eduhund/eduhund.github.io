@@ -11,7 +11,7 @@ metadata:
   canonical: https://astrowind.vercel.app/landing 
 ---
 
-# Promo: Digital Mentor for Team Leaders and Novice Managers
+# Digital Mentor for Team Leaders and Novice Managers (Promo)
 Boost your management mindset • Free promotional module 🕓 One week • 10 tasks
 
 ## Origin 
