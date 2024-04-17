@@ -2,7 +2,7 @@
 publishDate: 2024-04-17T00:00:00Z
 title: 'Digital Mentor for Team Leaders and Novice Managers'
 excerpt: Boost your management mindset • 135 tasks in 9 topics 🕓 Two months • Certificate of Accomplishment
-image: ~/images/digital-mentor.png
+image: ~/assets/images/digital-mentor.png
 tags:
   - google talles
   - instrument
