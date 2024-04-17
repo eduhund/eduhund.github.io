@@ -26,7 +26,7 @@ const whenExternalScripts = (items = []) =>
 
 export default defineConfig({
 
-  site: 'https://eduhund-com.github.io',
+  site: 'https://eduhund.github.io',
   
   output: 'static',
 
