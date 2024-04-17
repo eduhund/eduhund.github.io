@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-04-17T00:00:00Z
+publishDate: 2024-02-17T00:00:00Z
 title: 'Digital Mentor (promo)'
 excerpt: Boost your management mindset • Free promotional module 🕓 One week • 10 tasks
 image: ~/assets/images/digital-mentor-promo.png
@@ -11,7 +11,7 @@ metadata:
   canonical: https://astrowind.vercel.app/landing 
 ---
 
-# Digital Mentor for Team Leaders and Novice Managers (Promo)
+## Digital Mentor for Team Leaders and Novice Managers (Promo)
 Boost your management mindset • Free promotional module 🕓 One week • 10 tasks
 
 ## Origin 

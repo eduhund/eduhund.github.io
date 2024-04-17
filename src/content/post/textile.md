@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-04-17T00:00:00Z
+publishDate: 2024-03-17T00:00:00Z
 title: 'Textile'
 excerpt: Edit interface texts apart from Figma
 image: ~/assets/images/textile.png
@@ -11,24 +11,37 @@ metadata:
   canonical: https://astrowind.vercel.app/landing 
 ---
 
-# Textile
-Edit interface texts apart from Figma
+## Textile
+What is Textile? It is a text-friendly tool for interface design that allows editing interface texts apart from Figma. No reason to interrupt designers anymore. Try for free.
 
-## Origin 
-! [We have interactive courses] (https://eduhund.gumroad.com/l/bosses?_gl=1*19igkme*_ga*MjA0NjQzODgwMS4xNzEyMjk5MjUw*_ga_6LJN6D94N6*MTcxMzM0MTk2Mi40LjEuMTcxMzM0MzU5OS4wLjAuMA) (task books) in various areas: UX design, management, UX writing, marketing and much more. Their first versions were in Google Sheets and looked like this.
-![Super wide] (http://files@files.eduhund.com/Tabun/tables.png) 
+![Textile](~/assets/images/textile-texts.png)
 
-During one of the launches we needed to make more than 100 copies of task books directly from the master copy with some modifications: student name, task book ID. And of course we met a problem. 
+## Who is this for? 
+Are you a designer who wants to stop text irritating and dreams to delegate all these wordy tasks to anyone else?
 
-### Google does not allow you to make many copies of one table in one click. You can make one copy as many times as you like, but only one at a time, and only by hand. 
+Are you an author who likes to create strong words and sentences, but doubts in pictures and tires of too much color?
 
-Just imagine, make 100 copies of Google tables. Our entire team did not sleep all night to have time to make the needed amount of task books. And then, rename all the copies according to students’ information. 
+I do hope to help both of you :) with Textile: the first tool to manage — edit, discuss, translate, etc. — Figma texts apart from Figma itself.
 
-In order to avoid a similar situation in subsequent launches, we made Tabunn. 
+![Textile](~/assets/images/textile-2.png)
 
-### Tabunn helps you to:
-1. Save time and increase productivity and of course have some sleep at night
-2. Automate document creation 
+## What for?
+- Write UX texts, while designers work on style
+- Translate your Figma project in different languages
+- Change text and check if design is robust enough
+- Do not worry about UX writer Figma skills
+- Protect sensitive project — delegate writing only
+- Focus on interface text and its patterns
+- Copy/paste texts in your interface quickly
+- Measure and plan author’s work in your project
+- Do not pay for Figma license for your authors
 
-If you need to make several copies of one document and perhaps modify some part of the new copy, try Tabunn. 
+![Textile](~/assets/images/textile-3.png)
+
+## Set up
+1. [https://docs.google.com/document/d/1bycZAlmCtTRd1lwokXU2FtjB-AYmKymaCTx1GvNa53o/edit#heading=h.4edgo4rmh6w](https://docs.google.com/document/d/1bycZAlmCtTRd1lwokXU2FtjB-AYmKymaCTx1GvNa53o/edit#heading=h.4edgo4rmh6w)
+2. [Free demo files](https://www.figma.com/file/yUCGBC8x1SDk9BEnkNobRi/Textile-%E2%80%A2-Demo-Files?type=design&node-id=0%3A1&mode=design&t=HBfNYcgO1npg7sP7-1)
+3. [Documentation](https://github.com/eduhund/textile)
+
+Let the text force be with you :)
 

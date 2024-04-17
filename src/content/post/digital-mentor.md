@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-04-17T00:00:00Z
+publishDate: 2024-01-17T00:00:00Z
 title: 'Digital Mentor for Team Leaders and Novice Managers'
 excerpt: Boost your management mindset • 135 tasks in 9 topics 🕓 Two months • Certificate of Accomplishment
 image: ~/assets/images/digital-mentor.png
@@ -11,7 +11,7 @@ metadata:
   canonical: https://astrowind.vercel.app/landing 
 ---
 
-# Digital Mentor for Team Leaders and Novice Managers
+## Digital Mentor for Team Leaders and Novice Managers
 Boost your management mindset • 135 tasks in 9 topics 🕓 Two months • Certificate of Accomplishment
 
 ## Origin 
