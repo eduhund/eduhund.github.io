@@ -2,7 +2,7 @@
 publishDate: 2024-04-17T00:00:00Z
 title: 'Digital Mentor (promo)'
 excerpt: Boost your management mindset • Free promotional module 🕓 One week • 10 tasks
-image: ~/images/digital-mentor-promo.png
+image: ~/assets/images/digital-mentor-promo.png
 tags:
   - google talles
   - instrument

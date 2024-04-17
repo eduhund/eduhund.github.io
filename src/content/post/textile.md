@@ -2,7 +2,7 @@
 publishDate: 2024-04-17T00:00:00Z
 title: 'Textile'
 excerpt: Edit interface texts apart from Figma
-image: ~/images/textile.png
+image: ~/assets/images/textile.png
 tags:
   - google talles
   - instrument
