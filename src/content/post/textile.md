@@ -39,7 +39,7 @@ I do hope to help both of you :) with Textile: the first tool to manage — edit
 ![Textile](~/assets/images/textile-3.png)
 
 ## Set up
-1. [https://docs.google.com/document/d/1bycZAlmCtTRd1lwokXU2FtjB-AYmKymaCTx1GvNa53o/edit#heading=h.4edgo4rmh6w](https://docs.google.com/document/d/1bycZAlmCtTRd1lwokXU2FtjB-AYmKymaCTx1GvNa53o/edit#heading=h.4edgo4rmh6w)
+1. [Free set up instructions](https://docs.google.com/document/d/1bycZAlmCtTRd1lwokXU2FtjB-AYmKymaCTx1GvNa53o/edit#heading=h.4edgo4rmh6w)
 2. [Free demo files](https://www.figma.com/file/yUCGBC8x1SDk9BEnkNobRi/Textile-%E2%80%A2-Demo-Files?type=design&node-id=0%3A1&mode=design&t=HBfNYcgO1npg7sP7-1)
 3. [Documentation](https://github.com/eduhund/textile)
 
