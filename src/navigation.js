@@ -36,10 +36,6 @@ export const headerData = {
         {
           text: 'Digital Mentor Promo',
           href: getPermalink('digital-mentor-promo', 'post'),
-        },
-        {
-          text: 'Markdown Elements',
-          href: getPermalink('markdown-elements-demo-post', 'post'),
         }
       ],
     },
