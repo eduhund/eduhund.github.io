@@ -13,7 +13,7 @@ metadata:
 ---
 
 ## Origin 
-! [We have interactive courses](https://eduhund.gumroad.com/l/bosses?_gl=1*19igkme*_ga*MjA0NjQzODgwMS4xNzEyMjk5MjUw*_ga_6LJN6D94N6*MTcxMzM0MTk2Mi40LjEuMTcxMzM0MzU5OS4wLjAuMA)  (task books) in various areas: UX design, management, UX writing, marketing and much more. Their first versions were in Google Sheets and looked like this.
+[We have interactive courses](https://eduhund.gumroad.com/l/bosses?_gl=1*19igkme*_ga*MjA0NjQzODgwMS4xNzEyMjk5MjUw*_ga_6LJN6D94N6*MTcxMzM0MTk2Mi40LjEuMTcxMzM0MzU5OS4wLjAuMA)  (task books) in various areas: UX design, management, UX writing, marketing and much more. Their first versions were in Google Sheets and looked like this.
 ![Super wide](http://files.eduhund.com/Tabun/tables.png) 
 
 During one of the launches we needed to make more than 100 copies of task books directly from the master copy with some modifications: student name, task book ID. And of course we met a problem. 
@@ -28,5 +28,5 @@ In order to avoid a similar situation in subsequent launches, we made Tabunn.
 1. Save time and increase productivity and of course have some sleep at night
 2. Automate document creation 
 
-If you need to make several copies of one document and perhaps modify some part of the new copy, try Tabunn. 
+If you need to make several copies of one document and perhaps modify some part of the new copy, try [Tabunn](https://docs.google.com/document/d/1_e9qs5t4b_tw3eMTnyjpJznweuWR5PqHsI96moa6N8I/edit). 
 
