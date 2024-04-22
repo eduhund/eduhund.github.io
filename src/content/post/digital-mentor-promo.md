@@ -1,34 +1,44 @@
 ---
 publishDate: 2024-02-17T00:00:00Z
 title: 'Digital Mentor (promo)'
-excerpt: Boost your management mindset • Free promotional module 🕓 One week • 10 tasks
+excerpt: Free promotional module, containing 10 tasks
 image: ~/assets/images/digital-mentor-promo.png
+thumbnail: ~/assets/images/dmpromo_thumbnail.png
 tags:
   - google talles
   - instrument
   - scripts
 metadata:
-  canonical: https://astrowind.vercel.app/landing 
+  canonical: https://eduhund.github.io/digital-mentor-promo
 ---
 
 ## Digital Mentor for Team Leaders and Novice Managers (Promo)
+Free promotional module, containing 10 tasks — a small fraction of Digital Mentor for Team Leaders and Novice Managers. Those tasks will show you how is it all working here.
+
 Boost your management mindset • Free promotional module 🕓 One week • 10 tasks
 
-## Origin 
-! [We have interactive courses] (https://eduhund.gumroad.com/l/bosses?_gl=1*19igkme*_ga*MjA0NjQzODgwMS4xNzEyMjk5MjUw*_ga_6LJN6D94N6*MTcxMzM0MTk2Mi40LjEuMTcxMzM0MzU5OS4wLjAuMA) (task books) in various areas: UX design, management, UX writing, marketing and much more. Their first versions were in Google Sheets and looked like this.
-![Super wide] (http://files@files.eduhund.com/Tabun/tables.png) 
+### Digital Mentor to Maintain Your Progress
+Everything is as interactive as it can be.
 
-During one of the launches we needed to make more than 100 copies of task books directly from the master copy with some modifications: student name, task book ID. And of course we met a problem. 
+1. Try to solve a practical task.
+2. Have a look at our solution.
+3. Disagree with us, or answer ambiguously — do whatever is good for your studying experience.
+4. Get your scores and move on.
 
-### Google does not allow you to make many copies of one table in one click. You can make one copy as many times as you like, but only one at a time, and only by hand. 
+### Three NOs
+**No video**. Reading is a rare pleasure these days, so will you please read the text?
 
-Just imagine, make 100 copies of Google tables. Our entire team did not sleep all night to have time to make the needed amount of task books. And then, rename all the copies according to students’ information. 
+**No group tasks**. You are the boss. Believe us, the first skill you have to master is being alone.
 
-In order to avoid a similar situation in subsequent launches, we made Tabunn. 
+**No right answers**. We respect your ideas and are positive it is time for you to believe in yourself.
 
-### Tabunn helps you to:
-1. Save time and increase productivity and of course have some sleep at night
-2. Automate document creation 
+## Yes, of Course
+**Case-like tasks**. We prefer close to real-life small tasks to boring and wordy MBA ones.
 
-If you need to make several copies of one document and perhaps modify some part of the new copy, try Tabunn. 
+**Three levels of clues**. From yes/no options to a couple of words and then to an extensive explanation. As many clues as we have managed to come up with.
 
+**Take as many goes as you wish**. You can do the tasks over and over again. No restrictions.
+
+**Check the deadline**. You have two months only, but we think you can manage things faster.
+
+![Super wide](~/assets/images/digital-mentor-6.png)

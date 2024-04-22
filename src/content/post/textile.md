@@ -3,12 +3,13 @@ publishDate: 2024-03-17T00:00:00Z
 title: 'Textile'
 excerpt: Edit interface texts apart from Figma
 image: ~/assets/images/textile.png
+thumbnail: ~/assets/images/textile_thumbnail.png
 tags:
   - google talles
   - instrument
   - scripts
 metadata:
-  canonical: https://astrowind.vercel.app/landing 
+  canonical: https://eduhund.github.io/textile
 ---
 
 ## Textile
