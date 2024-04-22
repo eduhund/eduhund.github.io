@@ -15,6 +15,8 @@ metadata:
 ## Digital Mentor for Team Leaders and Novice Managers (Promo)
 Free promotional module, containing 10 tasks — a small fraction of Digital Mentor for Team Leaders and Novice Managers. Those tasks will show you how is it all working here.
 
+[Digital Mentor Promo on Gumroad](https://eduhund.gumroad.com/l/promobosses)
+
 Boost your management mindset • Free promotional module 🕓 One week • 10 tasks
 
 ### Digital Mentor to Maintain Your Progress
@@ -41,4 +43,6 @@ Everything is as interactive as it can be.
 
 **Check the deadline**. You have two months only, but we think you can manage things faster.
 
-![Super wide](~/assets/images/digital-mentor-6.png)
+[Digital Mentor Promo on Gumroad](https://eduhund.gumroad.com/l/promobosses)
+
+![Digital Mentor Promo](~/assets/images/digital-mentor-6.png)

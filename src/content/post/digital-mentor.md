@@ -15,7 +15,9 @@ metadata:
 ## Digital Mentor for Team Leaders and Novice Managers
 Boost your management mindset • 135 tasks in 9 topics 🕓 Two months • Certificate of Accomplishment
 
-![Super wide](~/assets/images/digital-mentor-3.png)
+[Digital Mentor on Gumroad](https://eduhund.gumroad.com/l/bosses)
+
+![Digital Mentor for Team Leaders and Novice Managers](~/assets/images/digital-mentor-3.png)
 
 ### What You Get
 - A digital mentor offering 135 tasks
@@ -27,7 +29,7 @@ Boost your management mindset • 135 tasks in 9 topics 🕓 Two months • Cert
 - Solid understanding of your business role
 - Certificate of Accomplishment
 
-![Super wide](~/assets/images/digital-mentor-4.png)
+![Digital Mentor for Team Leaders and Novice Managers](~/assets/images/digital-mentor-4.png)
 
 ### Management Topics Inside
 We skip everything you can get from other sources. Our topics are totally unique from start to finish.
@@ -42,7 +44,7 @@ We skip everything you can get from other sources. Our topics are totally unique
 8. Making mistakes, not avoiding them.
 9. Lifehacks.
 
-![Super wide](~/assets/images/digital-mentor-5.png)
+![Digital Mentor for Team Leaders and Novice Managers](~/assets/images/digital-mentor-5.png)
 
 ### Digital Mentor to Maintain Your Progress
 Everything is as interactive as it can be.
@@ -69,4 +71,6 @@ Everything is as interactive as it can be.
 
 **Check the deadline**. You have two months only, but we think you can manage things faster.
 
-![Super wide](~/assets/images/digital-mentor-6.png)
+[Digital Mentor on Gumroad](https://eduhund.gumroad.com/l/bosses)
+
+![Digital Mentor for Team Leaders and Novice Managers](~/assets/images/digital-mentor-6.png)
