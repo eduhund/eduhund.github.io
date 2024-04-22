@@ -43,7 +43,7 @@ const {
   />
   <div class="mx-auto max-w-7xl p-4 md:px-8">
     <div class={`md:flex ${isReversed ? 'md:flex-row-reverse' : ''} md:gap-16`}>
-      <div class="md:basis-1/2 self-center">
+      <div class="md:basis-1/2">
         {content && <div class="mb-12 text-lg dark:text-slate-400" set:html={content} />}
 
         {
@@ -77,10 +77,10 @@ const {
               ) : (
                 <Image
                   class="mx-auto w-full rounded-lg bg-gray-500 shadow-lg"
-                  width={500}
-                  height={500}
-                  widths={[400, 768]}
-                  sizes="(max-width: 768px) 100vw, 432px"
+                  width={635}
+                  height={380}
+                  widths={[400, 635]}
+                  sizes="(max-width: 635px) 100vw, 380px"
                   layout="responsive"
                   {...(image as any)}
                 />

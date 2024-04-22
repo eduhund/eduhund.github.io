@@ -2,13 +2,14 @@
 publishDate: 2024-04-17T00:00:00Z
 title: 'Tabunn'
 excerpt: Script that copies Google tables in the required quantity with the necessary modifications (names, numbering, username, etc.).
-image: http://files@files.eduhund.com/Tabun/Tabunn.png
+image: http://files.eduhund.com/Tabun/Tabunn.png
+thumbnail: http://files.eduhund.com/Tabun/Tabunn.png
 tags:
   - google sheets
   - instrument
   - scripts
 metadata:
-  canonical: https://astrowind.vercel.app/landing 
+  canonical: https://eduhund.github.io/tabunn
 ---
 
 ## Origin 

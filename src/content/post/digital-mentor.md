@@ -1,34 +1,76 @@
 ---
 publishDate: 2024-01-17T00:00:00Z
-title: 'Digital Mentor for Team Leaders and Novice Managers'
-excerpt: Boost your management mindset • 135 tasks in 9 topics 🕓 Two months • Certificate of Accomplishment
+title: 'Digital Mentor'
+excerpt: Digital Mentor for Team Leaders and Novice Managers
 image: ~/assets/images/digital-mentor.png
+thumbnail: ~/assets/images/dm_thumbnail.png
 tags:
   - google talles
   - instrument
   - scripts
 metadata:
-  canonical: https://astrowind.vercel.app/landing 
+  canonical: https://eduhund.github.io/digital-mentor
 ---
 
 ## Digital Mentor for Team Leaders and Novice Managers
 Boost your management mindset • 135 tasks in 9 topics 🕓 Two months • Certificate of Accomplishment
 
-## Origin 
-! [We have interactive courses] (https://eduhund.gumroad.com/l/bosses?_gl=1*19igkme*_ga*MjA0NjQzODgwMS4xNzEyMjk5MjUw*_ga_6LJN6D94N6*MTcxMzM0MTk2Mi40LjEuMTcxMzM0MzU5OS4wLjAuMA) (task books) in various areas: UX design, management, UX writing, marketing and much more. Their first versions were in Google Sheets and looked like this.
-![Super wide] (http://files@files.eduhund.com/Tabun/tables.png) 
+[Digital Mentor on Gumroad](https://eduhund.gumroad.com/l/bosses)
 
-During one of the launches we needed to make more than 100 copies of task books directly from the master copy with some modifications: student name, task book ID. And of course we met a problem. 
+![Digital Mentor for Team Leaders and Novice Managers](~/assets/images/digital-mentor-3.png)
 
-### Google does not allow you to make many copies of one table in one click. You can make one copy as many times as you like, but only one at a time, and only by hand. 
+### What You Get
+- A digital mentor offering 135 tasks
+- 9 management topics they never mention
+- 45+ tips and tricks to boss better
+- 30+ hours of transformative tasks
+- Trendy management framework
+- A whole new management mindset
+- Solid understanding of your business role
+- Certificate of Accomplishment
 
-Just imagine, make 100 copies of Google tables. Our entire team did not sleep all night to have time to make the needed amount of task books. And then, rename all the copies according to students’ information. 
+![Digital Mentor for Team Leaders and Novice Managers](~/assets/images/digital-mentor-4.png)
 
-In order to avoid a similar situation in subsequent launches, we made Tabunn. 
+### Management Topics Inside
+We skip everything you can get from other sources. Our topics are totally unique from start to finish.
 
-### Tabunn helps you to:
-1. Save time and increase productivity and of course have some sleep at night
-2. Automate document creation 
+1. Juggling your team’s skills.
+2. How do you assign your tasks?
+3. Working with a certain teammate.
+4. How to become a boss.
+5. Strength in simplicity.
+6. Introducing new things.
+7. Communication and paperwork.
+8. Making mistakes, not avoiding them.
+9. Lifehacks.
 
-If you need to make several copies of one document and perhaps modify some part of the new copy, try Tabunn. 
+![Digital Mentor for Team Leaders and Novice Managers](~/assets/images/digital-mentor-5.png)
 
+### Digital Mentor to Maintain Your Progress
+Everything is as interactive as it can be.
+
+1. Read a bit of theory.
+2. Try to solve a practical task.
+3. Have a look at our solution.
+4. Disagree with us, or answer ambiguously — do whatever is good for your studying experience.
+5. Get your scores and move on.
+
+### Three NOs
+**No video**. Reading is a rare pleasure these days, so will you please read the text?
+
+**No group tasks**. You are the boss. Believe us, the first skill you have to master is being alone.
+
+**No right answers**. We respect your ideas and are positive it is time for you to believe in yourself.
+
+## Yes, of Course
+**Case-like tasks**. We prefer close to real-life small tasks to boring and wordy MBA ones.
+
+**Three levels of clues**. From yes/no options to a couple of words and then to an extensive explanation. As many clues as we have managed to come up with.
+
+**Take as many goes as you wish**. You can do the tasks over and over again. No restrictions.
+
+**Check the deadline**. You have two months only, but we think you can manage things faster.
+
+[Digital Mentor on Gumroad](https://eduhund.gumroad.com/l/bosses)
+
+![Digital Mentor for Team Leaders and Novice Managers](~/assets/images/digital-mentor-6.png)
