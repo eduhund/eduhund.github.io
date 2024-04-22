@@ -71,7 +71,7 @@ export const footerData = {
         { text: 'About', href: 'https://neverhund.com/about' },
         { text: 'Contacts', href: 'https://neverhund.com/contacts' }
       ],
-    }
+    },
     {
       title: 'Social Links',
       links: [
