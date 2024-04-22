@@ -15,6 +15,8 @@ metadata:
 ## Textile
 What is Textile? It is a text-friendly tool for interface design that allows editing interface texts apart from Figma. No reason to interrupt designers anymore. Try for free.
 
+[Figma Plugin](https://www.figma.com/community/plugin/1334130766673706263/textile?searchSessionId=lt5qtlq5-01fy00apjkvl) + [Google Sheets](https://docs.google.com/spreadsheets/d/1Fpin_ZbIDcfHaKbJ8hDL7raARSsBeSf22Drby1jUaak/edit?usp=sharing)
+
 ![Textile](~/assets/images/textile-texts.png)
 
 ## Who is this for? 
