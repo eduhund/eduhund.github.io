@@ -48,61 +48,53 @@ export const footerData = {
     {
       title: 'Product',
       links: [
-        { text: 'Features', href: '#' },
-        { text: 'Security', href: '#' },
-        { text: 'Team', href: '#' },
-        { text: 'Enterprise', href: '#' },
-        { text: 'Customer stories', href: '#' },
-        { text: 'Pricing', href: '#' },
-        { text: 'Resources', href: '#' },
+        { text: 'All Products', href: getBlogPermalink() },
+        { text: 'Tabunn', href: getPermalink('tabunn', 'post') },
+        { text: 'Textile', href: getPermalink('textile', 'post') },
+        { text: 'Digital Mentor', href: getPermalink('digital-mentor', 'post') },
+        { text: 'Digital Mentor Promo', href: getPermalink('digital-mentor-promo', 'post') }
       ],
     },
     {
-      title: 'Platform',
+      title: 'Eduhund team',
       links: [
-        { text: 'Developer API', href: '#' },
-        { text: 'Partners', href: '#' },
-        { text: 'Atom', href: '#' },
-        { text: 'Electron', href: '#' },
-        { text: 'AstroWind Desktop', href: '#' },
+        { text: 'About us', href: getPermalink('/about') },
+        { text: 'Contacts', href: getPermalink('/contact') }
       ],
     },
     {
-      title: 'Support',
+      title: 'Neverhund',
       links: [
-        { text: 'Docs', href: '#' },
-        { text: 'Community Forum', href: '#' },
-        { text: 'Professional Services', href: '#' },
-        { text: 'Skills', href: '#' },
-        { text: 'Status', href: '#' },
+        { text: 'Neverhund', href: 'https://neverhund.com' },
+        { text: 'Services', href: 'https://neverhund.com/services' },
+        { text: 'Work', href: 'https://neverhund.com/work' },
+        { text: 'About', href: 'https://neverhund.com/about' },
+        { text: 'Contacts', href: 'https://neverhund.com/contacts' }
       ],
-    },
+    }
     {
-      title: 'Company',
+      title: 'Social Links',
       links: [
-        { text: 'About', href: '#' },
-        { text: 'Blog', href: '#' },
-        { text: 'Careers', href: '#' },
-        { text: 'Press', href: '#' },
-        { text: 'Inclusion', href: '#' },
-        { text: 'Social Impact', href: '#' },
-        { text: 'Shop', href: '#' },
+        { text: 'LinkedIn', href: '#' },
+        { text: 'Github', href: '#' },
+        { text: 'Instagram', href: 'https://www.instagram.com/neverhund' },
+        { text: 'Telegram', href: 'https://t.me/neverhund' }
       ],
-    },
+    }
   ],
   secondaryLinks: [
-    { text: 'Terms', href: getPermalink('/terms') },
-    { text: 'Privacy Policy', href: getPermalink('/privacy') },
+    { text: 'Abiut us', href: getPermalink('/about') },
+    { text: 'Contacts', href: getPermalink('/contact') },
   ],
-  socialLinks: [
-    { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
-    { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
-    { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
-    { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
-    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
-  ],
-  footNote: `
-    <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm bg-[url(https://onwidget.com/favicon/favicon-32x32.png)]"></span>
-    Made by <a class="text-blue-600 underline dark:text-muted" href="https://onwidget.com/"> onWidget</a> · All rights reserved.
-  `,
+  //socialLinks: [
+  //  { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
+  //  { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
+  //  { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
+  //  { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
+  //  { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
+  //],
+  //footNote: `
+  //  <span class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm bg-[url(https://onwidget.com/favicon/favicon-32x32.png)]"></span>
+  //  Made by <a class="text-blue-600 underline dark:text-muted" href="https://onwidget.com/"> onWidget</a> · All rights reserved.
+  //`,
 };
