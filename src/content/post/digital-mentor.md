@@ -42,7 +42,7 @@ We skip everything you can get from other sources. Our topics are totally unique
 6. Introducing new things.
 7. Communication and paperwork.
 8. Making mistakes, not avoiding them.
-9. Lifehacks.
+9. Lifehacks..
 
 ![Digital Mentor for Team Leaders and Novice Managers](~/assets/images/digital-mentor-5.png)
 
