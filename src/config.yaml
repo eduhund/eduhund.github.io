@@ -1,5 +1,5 @@
 site:
-  name: EduHund
+  name: eduHund
   site: 'https://eduhund.github.io'
   base: '/'
   trailingSlash: false
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: EduHund
+    default: eduHund
     template: '%s — AstroWind'
   description: ""
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: EduHund
+    site_name: eduHund
     images:
       - url: '~/assets/images/tabunn.png'
         width: 1200

@@ -56,7 +56,7 @@ export const footerData = {
       ],
     },
     {
-      title: 'Eduhund team',
+      title: 'eduHund team',
       links: [
         { text: 'About us', href: getPermalink('/about') },
         { text: 'Contacts', href: getPermalink('/contact') }
@@ -83,7 +83,7 @@ export const footerData = {
     }
   ],
   secondaryLinks: [
-    { text: 'Abiut us', href: getPermalink('/about') },
+    { text: 'About us', href: getPermalink('/about') },
     { text: 'Contacts', href: getPermalink('/contact') },
   ],
   //socialLinks: [
