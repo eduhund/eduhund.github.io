@@ -76,6 +76,7 @@ export const footerData = {
       title: 'Social Links',
       links: [
         { text: 'LinkedIn', href: '#' },
+        { text: 'Behance', href: '#' },
         { text: 'Github', href: '#' },
         { text: 'Instagram', href: 'https://www.instagram.com/neverhund' },
         { text: 'Telegram', href: 'https://t.me/neverhund' }
