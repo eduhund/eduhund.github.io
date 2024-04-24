@@ -22,13 +22,14 @@ const {
   isDark = false,
   classes = {},
   bg = await Astro.slots.render('bg'),
+  link
 } = Astro.props;
 ---
 
 <WidgetWrapper
   id={id}
   isDark={isDark}
-  containerClass={`max-w-7xl mx-auto ${isAfterContent ? 'pt-0 md:pt-0 lg:pt-0' : ''} ${classes?.container ?? ''}`}
+  containerClass={`content-block max-w-7xl mx-auto ${isAfterContent ? 'pt-0 md:pt-0 lg:pt-0' : ''} ${classes?.container ?? ''}`}
   bg={bg}
 >
   <Headline
@@ -43,7 +44,7 @@ const {
   />
   <div class="mx-auto max-w-7xl p-4 md:px-8">
     <div class={`md:flex ${isReversed ? 'md:flex-row-reverse' : ''} md:gap-16`}>
-      <div class="md:basis-1/2">
+      <div class="md:grow">
         {content && <div class="mb-12 text-lg dark:text-slate-400" set:html={content} />}
 
         {
@@ -68,23 +69,21 @@ const {
           }}
         />
       </div>
-      <div aria-hidden="true" class="mt-10 md:mt-0 md:basis-1/2">
+      <div aria-hidden="true" class="mt-10 md:mt-0 md:shrink-0" style="flex-basis: 640px;">
         {
           image && (
-            <div class="relative m-auto max-w-4xl">
-              {typeof image === 'string' ? (
-                <Fragment set:html={image} />
-              ) : (
-                <Image
-                  class="mx-auto w-full rounded-lg bg-gray-500 shadow-lg"
-                  width={635}
-                  height={380}
-                  widths={[400, 635]}
-                  sizes="(max-width: 635px) 100vw, 380px"
-                  layout="responsive"
-                  {...(image as any)}
-                />
-              )}
+            <div class="relative m-auto max-w-5xl">
+              <a href={link}>
+                {typeof image === 'string' ? (
+                  <Fragment set:html={image} />
+                ) : (
+                  <Image
+                    class="mx-auto rounded-lg bg-gray-500 shadow-lg"
+                    layout="fixed-half"
+                    {...(image as any)}
+                  />
+                )}
+              </a>
             </div>
           )
         }

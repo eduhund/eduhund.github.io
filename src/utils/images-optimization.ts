@@ -143,6 +143,11 @@ const getStyle = ({
     styleEntries.push(['height', pixelate(height)]);
     styleEntries.push(['object-position', 'top left']);
   }
+  if (layout === 'fixed-half') {
+    styleEntries.push(['width', pixelate(width)/2]);
+    styleEntries.push(['height', pixelate(height)/2]);
+    styleEntries.push(['object-position', 'top left']);
+  }
   if (layout === 'constrained') {
     styleEntries.push(['max-width', pixelate(width)]);
     styleEntries.push(['max-height', pixelate(height)]);
