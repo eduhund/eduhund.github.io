@@ -22,7 +22,7 @@ Initially, the idea to create such an assistant bot appeared when we realized th
 
 All these messages were collected in a separate Google table. We could see them only if we specifically came to see what was happening there.
 
-![ChaCha](http://files.eduhund.com/ChaCha/tables_messages.png)
+![ChaCha](http://files.eduhund.com/ChaCha/chacha-messages.png)
 
 ## Problems we faced: 
 
