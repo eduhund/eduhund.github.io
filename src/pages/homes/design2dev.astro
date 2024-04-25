@@ -18,7 +18,22 @@ const metadata = {
 };
 ---
 
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
 
+  <Hero
+    tagline="Startup Web Demo"
+    actions={[
+      {
+        variant: 'primary',
+        target: '_blank',
+        text: 'Get templates',
+        href: 'https://github.com/onwidget/astrowind',
+        icon: 'tabler:download',
+      },
+      { text: 'Learn more', href: '#features' },
+    ]}
+  >
     <Fragment slot="title">
       Передача макетов <span class="text-accent dark:text-white highlight">в разработку</span> 
     </Fragment>
@@ -33,9 +48,6 @@ const metadata = {
       <YoutubeVideo videoId="gxBkghlglTg" title="Astro just Launched.... Could it be the ultimate web framework?" />
     </Fragment>
   </Hero>
-
-  <!-- Features2 Widget ************** -->
-
    
   <!-- Features2 Widget ************** -->
 
@@ -158,7 +170,7 @@ const metadata = {
 
   <Features3
     title="Let us know how we can help"
-    subtitle="We’re here to help and answer any question you might have."
+    subtitle="We're here to help and answer any question you might have."
     columns={4}
     items={[
       {
