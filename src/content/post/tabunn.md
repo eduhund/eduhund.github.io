@@ -3,7 +3,7 @@ publishDate: 2024-04-17T00:00:00Z
 title: 'Tabunn'
 excerpt: Script that copies Google tables in the required quantity with the necessary modifications (names, numbering, username, etc.).
 image: http://files.eduhund.com/Tabun/Tabunn.png
-thumbnail: http://files.eduhund.com/Tabun/Tabunn.png
+thumbnail: ~/assets/images/tabunn_thumbnail.png
 tags:
   - google sheets
   - instrument

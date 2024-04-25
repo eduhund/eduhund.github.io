@@ -3,3 +3,9 @@
   text-decoration-color: var(--aw-color-primary);
   color: var(--aw-color-primary);
 }
+
+.content-block a {
+  text-decoration: underline;
+  text-decoration-color: var(--aw-color-primary);
+  color: var(--aw-color-primary);
+}

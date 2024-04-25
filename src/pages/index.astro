@@ -12,6 +12,8 @@ import FAQs from '~/components/widgets/FAQs.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
 
+import { getPermalink } from '~/utils/permalinks';
+
 const metadata = {
   title: 'Open-source tools and solutions for developers, designers, and those who learn those subjects',
   ignoreTitleTemplate: true,
@@ -32,10 +34,10 @@ const metadata = {
       },
       { text: 'Learn more', href: '#features' },
     ]} */
-    image={{ src: '~/assets/images/Tabunn.png', alt: 'Tabunn' }}
+    image={{ src: '~/assets/images/tabunn.png', alt: 'Tabunn' }}
   >
     <Fragment slot="title">
-      EduHund
+      eduHund
     </Fragment>
     
     <!--
@@ -53,41 +55,19 @@ const metadata = {
     </Fragment>
   </Hero>
 
-  <!-- Features Widget *************** -->
-
-  <!-- <Features
-    id="features"
-    tagline="Features"
-    title=""
-    subtitle="One of the most professional and comprehensive templates currently on the market. Most starred & forked Astro theme in 2022."
-    items={[
-      {
-        title: 'Astro + Tailwind CSS Integration',
-        description:
-          'A seamless integration between two great frameworks that offer high productivity, performance and versatility.',
-        icon: 'tabler:brand-tailwind',
-      },
-      {
-        title: 'Ready-to-use Components',
-        description:
-          'Widgets made with Tailwind CSS ready to be used in Marketing Websites, SaaS, Blogs, Personal Profiles, Small Business...',
-        icon: 'tabler:components',
-      }
-    ]}
-  />-->
-
   <!-- Content Widget **************** -->
 
   <Content
     isReversed
     image={{
-      src: '~/assets/images/textile-2.png',
+      src: '~/assets/images/textile-2s.png',
       alt: 'Textile',
     }}
+    link={getPermalink('textile', 'post')}
   >
     <Fragment slot="content">
       <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2"></h3>
-       We have already made Textile - a tool for working with texts from Figma layouts, Tabunn - a script that copies Google tables in the required quantity with the necessary modifications and Digital Mentor. 
+       We have already made <a href={getPermalink('textile', 'post')}>Textile</a> - a tool for working with texts from Figma layouts, <a href={getPermalink('tabunn', 'post')}>Tabunn</a> - a script that copies Google tables in the required quantity with the necessary modifications and <a href={getPermalink('digital-mentor', 'post')}>Digital Mentor</a>. 
     </Fragment>
 
     <Fragment slot="bg">
@@ -100,9 +80,10 @@ const metadata = {
   <Content
     isAfterContent
     image={{
-      src: '~/assets/images/digital-mentor-2.png',
+      src: '~/assets/images/digital-mentor-2s.png',
       alt: 'Digital Mentor',
     }}
+    link={getPermalink('digital-mentor', 'post')}
   >
     <Fragment slot="content">In plans to make another 50 microproducts. Stay up to date and follow our social networks. </Fragment>
 

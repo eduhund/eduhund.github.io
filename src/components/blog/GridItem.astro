@@ -13,7 +13,7 @@ export interface Props {
 }
 
 const { post } = Astro.props;
-const image = (await findImage(post.image));
+const image = (await findImage(post.thumbnail));
 ---
 
 <article class="mb-6 transition">
