@@ -15,7 +15,7 @@ metadata:
 Your clients or users use instant messengers (WhatsApp, Skype, LINE, WeChat, Viber, Snapchat, Telegram and others) to send messages, and you conduct a dialogue using a separate Slack channel. You can add as many users as you like to a Slack channel. Either one person or a whole group of specialists can respond to messages from users/clients.
 
 ## Origin 
-Initially, the idea to create such an assistant bot appeared when we realized that it was difficult for us to collect feedback from people who studied on our [Taskbook] (https://eduhund.gumroad.com/l/bosses?_gl=1*19igkme*_ga*MjA0NjQzODgwMS4xNzEyMjk5MjUw*_ga_6LJN6D94N6*MTcxMzM0MTk2Mi40LjEuMTcxMzM0MzU5OS4wLjAuMA) on Google Sheets. Students wrote comments/questions/problems in a special comment (notes) field. 
+Initially, the idea to create such an assistant bot appeared when we realized that it was difficult for us to collect feedback from people who studied on our [Taskbook](https://eduhund.gumroad.com/l/bosses?_gl=1*19igkme*_ga*MjA0NjQzODgwMS4xNzEyMjk5MjUw*_ga_6LJN6D94N6*MTcxMzM0MTk2Mi40LjEuMTcxMzM0MzU5OS4wLjAuMA) on Google Sheets. Students wrote comments/questions/problems in a special comment (notes) field. 
 
 ![ChaCha](http://files.eduhund.com/ChaCha/bles_comments_1.png) 
 ![ChaCha](http://files.eduhund.com/ChaCha/tables_comments.png)
