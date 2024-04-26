@@ -9,7 +9,7 @@ tags:
   - instrument
   - support
 metadata:
-  canonical: https://eduhund.github.io/chacha
+  canonical: https://eduhund.com/chacha
 ---
 
 Your clients or users use instant messengers (WhatsApp, Skype, LINE, WeChat, Viber, Snapchat, Telegram and others) to send messages, and you conduct a dialogue using a separate Slack channel. You can add as many users as you like to Slack. Either one person or a whole group of specialists can respond to messages from your users/clients.
