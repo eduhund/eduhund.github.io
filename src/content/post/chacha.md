@@ -1,7 +1,7 @@
 ---
 publishDate: 2024-04-17T00:00:00Z
 title: 'ChaCha'
-excerpt: Collective support through messengers.
+excerpt: Collective support via messengers.
 image: http://files.eduhund.com/ChaCha/ChaCha.png
 thumbnail: http://files.eduhund.com/ChaCha/chacha_thumbnail.png
 tags:
@@ -12,7 +12,7 @@ metadata:
   canonical: https://eduhund.github.io/chacha
 ---
 
-Your clients or users use instant messengers (WhatsApp, Skype, LINE, WeChat, Viber, Snapchat, Telegram and others) to send messages, and you conduct a dialogue using a separate Slack channel. You can add as many users as you like to a Slack channel. Either one person or a whole group of specialists can respond to messages from users/clients.
+Your clients or users use instant messengers (WhatsApp, Skype, LINE, WeChat, Viber, Snapchat, Telegram and others) to send messages, and you conduct a dialogue using a separate Slack channel. You can add as many users as you like to Slack. Either one person or a whole group of specialists can respond to messages from your users/clients.
 
 ## Origin 
 Initially, the idea to create such an assistant bot appeared when we realized that it was difficult for us to collect feedback from people who studied on our [Taskbook](https://eduhund.gumroad.com/l/bosses?_gl=1*19igkme*_ga*MjA0NjQzODgwMS4xNzEyMjk5MjUw*_ga_6LJN6D94N6*MTcxMzM0MTk2Mi40LjEuMTcxMzM0MzU5OS4wLjAuMA) on Google Sheets. Students wrote comments/questions/problems in a special comment (notes) field. 
