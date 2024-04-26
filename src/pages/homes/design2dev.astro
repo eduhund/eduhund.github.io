@@ -18,8 +18,8 @@ const metadata = {
 };
 ---
 
-<!--<Layout metadata={metadata}>
-  <!-- Hero Widget ******************* 
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
 
   <Hero
     tagline="Startup Web Demo"
@@ -33,7 +33,7 @@ const metadata = {
       },
       { text: 'Learn more', href: '#features' },
     ]}
-  >-->
+  >
     <Fragment slot="title">
       Передача макетов <span class="text-accent dark:text-white highlight">в разработку</span> 
     </Fragment>
@@ -44,13 +44,10 @@ const metadata = {
         Мы придерживаемся девяти ключевых практик, которые упрощают разработчикам жизнь и экономят заказчикам деньги.
     </Fragment>
 
-    <Fragment slot="image">
+    <!--<Fragment slot="image">
       <YoutubeVideo videoId="gxBkghlglTg" title="Astro just Launched.... Could it be the ultimate web framework?" />
-    </Fragment>
+    </Fragment>-->
   </Hero>
-
-  <!-- Features2 Widget ************** -->
-
    
   <!-- Features2 Widget ************** -->
 
@@ -78,9 +75,7 @@ const metadata = {
       },
     ]}
   >
-    <Fragment slot="bg">
-      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
-    </Fragment>
+    
   </Features2>
 
   <!-- Features Widget *************** -->
@@ -89,7 +84,7 @@ const metadata = {
     id="features"
     title="9 практик по передаче макетов"
     
-    columns={4}
+    columns={3}
     items={[
       {
         title: 'Обсуждение с заказчиком требований к макету',
@@ -98,145 +93,50 @@ const metadata = {
         icon: 'tabler:artboard',
       },
       {
-        title: 'Responsive and Mobile-Friendly',
-        description: 'Adapt seamlessly to different screen sizes and devices to ensure a consistent experience.',
+        title: 'Визуализация пользовательского пути',
+        description: 'Чтобы ничего не упустить в процессе дизайна и разработки',
         icon: 'tabler:picture-in-picture',
       },
       {
-        title: 'Customizability',
+        title: 'Cоблюдение последовательности в макетах',
         description:
-          'Easily customizable, allowing users to adapt the design, colors, typography, and content to match their brand identity.',
+          'Проще работать, когда все разложено по порядку',
         icon: 'tabler:adjustments-horizontal',
       },
       {
-        title: 'Fast Loading Times',
-        description: 'Optimized for speed to ensure a smooth user experience and favorable search engine rankings.',
+        title: 'Именование всех элементов интерфейса',
+        description: 'Success screen, а не Frame100500',
         icon: 'tabler:rocket',
       },
       {
-        title: 'Search Engine Optimization (SEO)',
+        title: 'Понимание базовых принципов верстки',
         description:
-          'Incorporate SEO best practices in template structure and code to improve visibility in search engine results.',
+          'Думай как верстальщик, действуй как верстальщик, стань верстальщиком',
         icon: 'tabler:arrows-right-left',
       },
       {
-        title: 'Compatibility',
-        description: 'The templates work seamlessly across various content management systems and website builders.',
+        title: 'Соблюдение гигиенты рабочего пространства',
+        description: 'Чистота в макетах - залог душевного здоровья дизайнера и разработчика',
+        icon: 'tabler:plug-connected',
+      },
+      {
+        title: 'Прототипирование',
+        description: 'Самый надежный спосо избежать ошибок и недопонимания процесов при разработке',
+        icon: 'tabler:plug-connected',
+      },
+      {
+        title: 'Организация библиотеки компонентов',
+        description: 'Тишина и порядок должен быть в библиотеке',
+        icon: 'tabler:plug-connected',
+      },
+      {
+        title: 'Соблюдение консистентности',
+        description: 'Не дизайн-системой единой',
         icon: 'tabler:plug-connected',
       },
     ]}
   />
 
-  <!-- FAQs Widget ******************* -->
+  
 
-  <FAQs
-    title="Frequently Asked Questions"
-    items={[
-      {
-        title: 'What are landing page templates?',
-        description:
-          'Landing page templates are pre-designed web page layouts that are specifically created to serve as a foundation for building effective landing pages. These templates are designed to capture the attention of visitors and guide them towards a specific action or goal, such as signing up for a newsletter, making a purchase, or downloading a resource.',
-      },
-      {
-        title: 'Why should I use a template?',
-        description:
-          'Some of the advantages are that they provide a ready-to-use structure,  saving you significant time. Are designed with user-friendliness in mind and provide a cost-effective alternative, saving you money while still delivering a quality result.',
-      },
-      {
-        title: 'Can I preview templates before buying?',
-        description:
-          'Yes, the templates allow you to preview them before making a purchase. There is a "Demo" button associated with each template.',
-      },
-      {
-        title: 'Do I need technical skills to use a template?',
-        description:
-          'Advanced technical skills are not required to use a template, but having a basic understanding of web navigation and familiarity with using online tools can still be beneficial. If you have more specific customization needs, you might need to consult guides or reach out to customer support for assistance.',
-      },
-      {
-        title: 'Can I use the template on multiple websites?',
-        description:
-          'No, the template comes with a single-use license, meaning you can use the template on one website or project only. Using the template on additional websites would require purchasing additional licenses.',
-      },
-      {
-        title: 'What if I need help with customization?',
-        description:
-          "The templates provides a comprehensive step-by-step guide that walk you through the customization process. If you still have doubts, you can reach out to our customer support team. They can answer your questions, provide guidance on customization, and address any issues you're facing.",
-      },
-    ]}
-  >
-    <Fragment slot="bg">
-      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
-    </Fragment>
-  </FAQs>
-
-  <!-- Features3 Widget ************** -->
-
-  <Features3
-    title="Let us know how we can help"
-    subtitle="We’re here to help and answer any question you might have."
-    columns={4}
-    items={[
-      {
-        title: 'Phone',
-        icon: 'tabler:phone',
-        callToAction: {
-          target: '_blank',
-          text: 'Call us',
-          href: '/',
-          variant: 'link',
-        },
-      },
-      {
-        title: 'Email',
-        icon: 'tabler:mail',
-        callToAction: {
-          target: '_blank',
-          text: 'Write to us',
-          href: '/',
-          variant: 'link',
-        },
-      },
-      {
-        title: 'Chat with sales',
-        icon: 'tabler:message-circle',
-        callToAction: {
-          target: '_blank',
-          text: 'Start chatting',
-          href: '/',
-          variant: 'link',
-        },
-      },
-      {
-        title: 'Chat with support',
-        icon: 'tabler:message-circle',
-        callToAction: {
-          target: '_blank',
-          text: 'Start chatting',
-          href: '/',
-          variant: 'link',
-        },
-      },
-    ]}
-  />
-
-  <!-- CallToAction Widget *********** -->
-
-  <CallToAction
-    actions={[
-      {
-        variant: 'primary',
-        target: '_blank',
-        text: 'Get templates',
-        href: 'https://github.com/onwidget/astrowind',
-        icon: 'tabler:download',
-      },
-    ]}
-  >
-    <Fragment slot="title">Be a part of our vision</Fragment>
-
-    <Fragment slot="subtitle">
-      Discover a dynamic work environment, unparalleled growth opportunities, and the chance to make a meaningful
-      impact.
-    </Fragment>
-  </CallToAction>
-</Layout>
+  
