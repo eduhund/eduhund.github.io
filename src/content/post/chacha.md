@@ -34,6 +34,8 @@ There were attempts to create a community in telegram. This solution also had it
 
 As a result, we integrated a familiar channel for users - Telegram with a familiar channel for us - Slack.
 
+![ChaCha](http://files.eduhund.com/ChaCha/ChaCha_integration.png) 
+
 In general, a bunch of services can be anything (anything that supports external management). We have Telegram and Slack. We chose Telegram because, in comparison with other services, it has more integration options than other similar social networks.
 
 The Telegram bot was chosen because it was the only way to get a private communication channel using an external Api. The peculiarity of such communication is that a person receives feedback/help from people (us), and not from a machine that gives answers according to a script.
@@ -46,7 +48,12 @@ The special thing about ChaCha is that specialists from different departments (3
 
 ## What problems does ChaCha solve?
 
-1. ChaCha creates a familiar/natural communication environment between the user and the business. Both on one side and on the other. There are no more forms to fill out on the site, no need to leave/fill out your personal data anywhere and then wait for days for a support employee to contact you. ChaCha simplifies not only the process of communication itself, but also the moment of entering it.
+1. ChaCha creates a familiar/natural communication environment between the user and the business. Both on one side and on the other. There are no more forms to fill out on the site, no need to leave/fill out your personal data anywhere and then wait for days for a support employee to contact you. 
+
+![ChaCha](http://files.eduhund.com/ChaCha/site_form.png) 
+
+ChaCha simplifies not only the process of communication itself, but also the moment of entering it.
+
 2. Businesses no longer need to study (spend resources on studying) any third-party services to build communication with users. There is no need to deploy an endless number of tools for different tasks. The entire dialogue is conducted in the usual communication channel for business.
 3. There is no chance of missing something important on the business side.
 4. The necessary qualified support is provided in time and from various specialists. Sometimes even at the same time. One window principle.
