@@ -11,6 +11,7 @@ tags:
 metadata:
   canonical: https://eduhund.github.io/chacha
 ---
+
 <Layout metadata={metadata}>
 <CallToAction
     title="Coming soon"
@@ -25,6 +26,7 @@ metadata:
     ]}
   />
   </Layout>
+
 Your clients or users use instant messengers (WhatsApp, Skype, LINE, WeChat, Viber, Snapchat, Telegram and others) to send messages, and you conduct a dialogue using a separate Slack channel. You can add as many users as you like to a Slack channel. Either one person or a whole group of specialists can respond to messages from users/clients.
 
 ## Origin 
