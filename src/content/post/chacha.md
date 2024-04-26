@@ -9,7 +9,7 @@ tags:
   - instrument
   - support
 metadata:
-  canonical: https://eduhund.github.io/chacha
+  canonical: https://eduhund.com/chacha
 ---
 
 Your clients or users use instant messengers (WhatsApp, Skype, LINE, WeChat, Viber, Snapchat, Telegram and others) to send messages, and you conduct a dialogue using a separate Slack channel. You can add as many users as you like to Slack. Either one person or a whole group of specialists can respond to messages from your users/clients.
@@ -60,6 +60,4 @@ ChaCha simplifies not only the process of communication itself, but also the mom
 5. Tool flexibility. The ability to customize the tool to suit the needs of a specific business.
 6. There is no graphical user interface.
 
-ChaCha is a self-deployment platform. To run the tool yourself, please use the instructions on our [Github](https://github.com/eduhund/chacha). 
-
-If you can’t deploy Chacha, write to us we@eduhund.com, we’ll help :)
+ChaCha is a self-deployment platform. To run the tool for yourself, please use the instructions.
