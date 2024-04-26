@@ -9,6 +9,6 @@ tags:
   - instrument
   - scripts
 metadata:
-  canonical: https://eduhund.github.io/proba_julia
+  canonical: https://eduhund.com/proba_julia
 ---
 ## Hello, world!

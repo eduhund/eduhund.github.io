@@ -9,7 +9,7 @@ tags:
   - instrument
   - scripts
 metadata:
-  canonical: https://eduhund.github.io/textile
+  canonical: https://eduhund.com/textile
 ---
 
 ## Textile

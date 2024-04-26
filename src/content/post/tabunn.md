@@ -9,7 +9,7 @@ tags:
   - instrument
   - scripts
 metadata:
-  canonical: https://eduhund.github.io/tabunn
+  canonical: https://eduhund.com/tabunn
 ---
 
 ## Origin 

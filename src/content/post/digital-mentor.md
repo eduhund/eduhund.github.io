@@ -9,7 +9,7 @@ tags:
   - instrument
   - scripts
 metadata:
-  canonical: https://eduhund.github.io/digital-mentor
+  canonical: https://eduhund.com/digital-mentor
 ---
 
 ## Digital Mentor for Team Leaders and Novice Managers
