@@ -4,6 +4,11 @@ title: 'Digital Mentor (promo)'
 excerpt: Free promotional module, containing 10 tasks
 image: ~/assets/images/digital-mentor-promo.png
 thumbnail: ~/assets/images/dmpromo_thumbnail.png
+callToAction:
+  title: Title
+  subtitle: Subtitle
+  href: http://yandex.ru
+  text: Do it
 tags:
   - google talles
   - instrument

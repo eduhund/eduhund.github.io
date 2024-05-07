@@ -61,6 +61,15 @@ const postCollection = defineCollection({
     author: z.string().optional(),
 
     metadata: metadataDefinition(),
+    
+    callToAction: z.object({
+      title: z.string().optional(),
+      subtitle: z.string().optional(),
+      href: z.string().optional(),
+      text: z.string().optional(),
+      icon: z.string().optional(),
+    }).optional(),
+    
   }),
 });
 

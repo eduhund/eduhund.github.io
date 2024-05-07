@@ -7,6 +7,8 @@ import Layout from '~/layouts/PageLayout.astro';
 import SinglePost from '~/components/blog/SinglePost.astro';
 import ToBlogLink from '~/components/blog/ToBlogLink.astro';
 
+import CallToAction from '~/components/widgets/CallToAction.astro';
+
 import { getCanonical, getPermalink } from '~/utils/permalinks';
 import { getStaticPathsBlogPost, blogPostRobots } from '~/utils/blog';
 import { findImage } from '~/utils/images';
@@ -45,6 +47,29 @@ const metadata = merge(
 
 <Layout metadata={metadata}>
   <SinglePost post={{ ...post, image: image }} url={url} />
+  
+  {post.callToAction && (
+    <CallToAction
+      actions={[
+        {
+          variant: 'primary',
+          target: '_blank',
+          text: post.callToAction.text,
+          href: post.callToAction.href,
+          icon: post.callToAction.icon || 'tabler:download'
+        },
+      ]}
+    >
+      {post.callToAction.title && (
+        <Fragment slot="title">{post.callToAction.title}</Fragment>
+      )}
+      {post.callToAction.subtitle && (
+        <Fragment slot="subtitle">{post.callToAction.subtitle}</Fragment>
+      )}
+    </CallToAction>
+
+  )}
+  
   <ToBlogLink />
   <RelatedPosts post={post} />
 </Layout>
