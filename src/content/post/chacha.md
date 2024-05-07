@@ -62,4 +62,4 @@ ChaCha simplifies not only the process of communication itself, but also the mom
 
 ChaCha is a self-deployment platform. To run the tool for yourself, please use the instructions on our [Github](https://github.com/eduhund/chacha).
 
-If you can’t deploy Chacha, write to us we@eduhund.com, we’ll help :)
+If you can’t deploy ChaCha, write to us we@eduhund.com, we’ll help :)
