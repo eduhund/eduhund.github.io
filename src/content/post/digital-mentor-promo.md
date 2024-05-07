@@ -7,7 +7,7 @@ thumbnail: ~/assets/images/dmpromo_thumbnail.png
 callToAction:
   title: Title
   subtitle: Subtitle
-  href: http://yandex.ru
+  href: https://eduhund.gumroad.com/l/promobosses
   text: Do it
 tags:
   - google talles
