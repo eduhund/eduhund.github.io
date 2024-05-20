@@ -2,12 +2,12 @@
 publishDate: 2024-05-20T00:00:00Z
 title: 'Trove'
 excerpt: Service for generating, storing and validating one-time codes.
-image: 
+image:        
 thumbnail: http://files.eduhund.com/Trove/trove_thumbnail.png
 tags:
-  - messengers
+  - OTK service
   - instrument
-  - support
+  - one-time codes
 metadata:
   canonical: https://eduhund.com/trove
 ---
