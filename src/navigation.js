@@ -40,6 +40,9 @@ export const headerData = {
         {
           text: 'ChaCha',
           href: getPermalink('chacha', 'post')
+        },
+        {text: 'Trove',
+        href: getPermalink('trove', 'post')
         }
       ],
     },
@@ -57,7 +60,8 @@ export const footerData = {
         { text: 'Textile', href: getPermalink('textile', 'post') },
         { text: 'Digital Mentor', href: getPermalink('digital-mentor', 'post') },
         { text: 'Digital Mentor Promo', href: getPermalink('digital-mentor-promo', 'post') },
-        { text: 'ChaCha', href: getPermalink('chacha', 'post') }
+        { text: 'ChaCha', href: getPermalink('chacha', 'post') },
+        { text: 'Trove', href: getPermalink('trove', 'post')}
       ],
     },
     {
