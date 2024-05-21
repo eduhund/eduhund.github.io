@@ -2,7 +2,7 @@
 publishDate: 2024-05-20T00:00:00Z
 title: 'Trove'
 excerpt: Service for generating, storing and validating one-time codes.
-image:        
+image: http://files.eduhund.com/Trove/IMG_4579.gif
 thumbnail: http://files.eduhund.com/Trove/trove_thumbnail.png
 tags:
   - OTK service
