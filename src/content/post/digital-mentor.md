@@ -10,6 +10,8 @@ tags:
   - scripts
 metadata:
   canonical: https://eduhund.com/digital-mentor
+  title: Digital Mentor
+  description: Digital Mentor for Team Leaders and Novice Managers
 ---
 
 ## Digital Mentor for Team Leaders and Novice Managers

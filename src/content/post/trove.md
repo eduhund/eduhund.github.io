@@ -10,6 +10,8 @@ tags:
   - one-time codes
 metadata:
   canonical: https://eduhund.com/trove
+  title: Trove
+  description: Service for generating, storing and validating one-time codes
 ---
 
 [Trove](http://otk.eduhund.com/) is a service that generates a one-time key/code and then checks whether it matches something the user needs. 

@@ -24,13 +24,15 @@ const currentPage = page.currentPage ?? 1;
 // const allTags = await findTags();
 
 const metadata = {
-  title: `Blog${currentPage > 1 ? ` — Page ${currentPage}` : ''}`,
+  title: 'Microproducts',
+  ignoreTitleTemplate: true,
+  description: 'Our microproducts: small things that move and perform some useful function in the digital economy',
   robots: {
     index: blogListRobots?.index && currentPage === 1,
     follow: blogListRobots?.follow,
   },
   openGraph: {
-    type: 'blog',
+    type: 'article',
   },
 };
 ---

@@ -1,6 +1,6 @@
 site:
   name: eduHund
-  site: 'https://eduhund.github.io'
+  site: 'https://eduhund.com'
   base: '/'
   trailingSlash: false
 

@@ -15,6 +15,8 @@ tags:
   - scripts
 metadata:
   canonical: https://eduhund.com/digital-mentor-promo
+  title: Digital Mentor (promo)
+  description: Free promotional module, containing 10 tasks
 ---
 
 ## Digital Mentor for Team Leaders and Novice Managers (Promo)

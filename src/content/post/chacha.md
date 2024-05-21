@@ -1,7 +1,7 @@
 ---
 publishDate: 2024-04-17T00:00:00Z
 title: 'ChaCha'
-excerpt: Collective support via messengers.
+excerpt: Collective support via messengers
 image: http://files.eduhund.com/ChaCha/ChaCha.png
 thumbnail: http://files.eduhund.com/ChaCha/chacha_thumbnail.png
 tags:
@@ -10,6 +10,8 @@ tags:
   - support
 metadata:
   canonical: https://eduhund.com/chacha
+  title: ChaCha
+  description: Collective support via messengers
 ---
 
 Your clients or users use instant messengers (WhatsApp, Skype, LINE, WeChat, Viber, Snapchat, Telegram and others) to send messages, and you conduct a dialogue using a separate Slack channel. You can add as many users as you like to Slack. Either one person or a whole group of specialists can respond to messages from your users/clients.

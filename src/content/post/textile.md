@@ -10,6 +10,8 @@ tags:
   - scripts
 metadata:
   canonical: https://eduhund.com/textile
+  title: Textile
+  description: Tool for editing interface texts apart from Figma
 ---
 
 ## Textile
