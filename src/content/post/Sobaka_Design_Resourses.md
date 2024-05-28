@@ -106,9 +106,7 @@ What problems does [Sobaka Design Resourses](https://www.figma.com/community/fil
 1. Follow [this link.]((https://www.figma.com/community/file/1290929322246824625/icons-sobaka-design-resources))
 2. Click the  Open in Figma button. 
 ![Icon set installation](http://files.eduhund.com/SDR/15.png) 
-3. Make your own copy. 
-![Icon set installation](http://files.eduhund.com/SDR/16.png) 
-4. Do whatever you want with this Icons set. 
+3. A copy of the community file will be created. Here you can start doing whatever you want with this Icons set. 
 
 If you can’t install our Figma library or don't ungerstsnd how to make Icons, write to us to we@eduhund.com, we’ll help :)
 
