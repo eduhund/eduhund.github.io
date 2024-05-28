@@ -43,7 +43,9 @@ export const headerData = {
         },
         {text: 'Trove',
         href: getPermalink('trove', 'post')
-        }
+        }, 
+        {text: 'Sobaka Design Resourses',
+        href: getPermalink('sdr', 'post')}
       ],
     },
   ],
@@ -61,7 +63,8 @@ export const footerData = {
         { text: 'Digital Mentor', href: getPermalink('digital-mentor', 'post') },
         { text: 'Digital Mentor Promo', href: getPermalink('digital-mentor-promo', 'post') },
         { text: 'ChaCha', href: getPermalink('chacha', 'post') },
-        { text: 'Trove', href: getPermalink('trove', 'post')}
+        { text: 'Trove', href: getPermalink('trove', 'post')},
+        { text: 'Sobaka Design Resourses', href: getPermalink('sdr', 'post')}
       ],
     },
     {
