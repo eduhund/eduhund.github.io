@@ -3,7 +3,7 @@ publishDate: 2024-04-17T00:00:00Z
 title: 'Crucius'
 excerpt: Figma plugin for quick transformation of the geometry of images/objects/frames
 image: http://files.eduhund.com/crucius/Crucius.png
-tags:
+
 thumbnail: http://files.eduhund.com/crucius/Crucius_thumbnail.png
 tags:
   - Figma plugin
@@ -48,7 +48,7 @@ After a little research we understood that:
 
 There is only one option left. Receive a raster copy of the image. Yes, you can’t do anything with it later, but because we have access to vectors, we can rotate it and make casts (pictures) of what we got. They lose quality in relation to the original vector, but give the result as close as possible.
 
-![Crucius]()
+![Crucius](http://files.eduhund.com/crucius/3.png)
 
 On the one hand, we are limited by the figma, on the other hand, we are limited by the principle of how it is all rendered.
 
