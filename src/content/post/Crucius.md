@@ -23,9 +23,9 @@ The client has diagrams of venues where various events are held: concerts, shows
 
 Here are examples of such venue maps. 
 
-![Rogers centre seating map](~/assets/images/Crucius1.png)
+![Rogers centre seating map](http://files.eduhund.com/crucius/1.png)
 
-![Rogers centre seating map](~/assets/images/Crucius2.png)
+![Rogers centre seating map](http://files.eduhund.com/crucius/2.png)
 
 One of the features that competitors have that we are looking at as a potential feature to implement is the ability to rotate this diagram so that it appears three-dimensional. It wasn't truly three-dimensional, but it gave the impression of being three-dimensional. Perspective appears. You can roughly see what view will open from a certain point on the venue.
 
@@ -48,7 +48,7 @@ After a little research we understood that:
 
 There is only one option left. Receive a raster copy of the image. Yes, you can’t do anything with it later, but because we have access to vectors, we can rotate it and make casts (pictures) of what we got. They lose quality in relation to the original vector, but give the result as close as possible.
 
-![Crucius](~/assets/images/Crucius3.png)
+![Crucius]()
 
 On the one hand, we are limited by the figma, on the other hand, we are limited by the principle of how it is all rendered.
 
@@ -61,17 +61,17 @@ As a result, Crucius is a mini preview so that you can quickly and cheaply trans
 - select the object (frame) in the figma. P.S. anything can be in a frame;
 - set the settings/parameters for transforming the content in the frame;
 
-![Crucius](~/assets/images/Crucius4.png)
+![Crucius](http://files.eduhund.com/crucius/4.png)
 
 **Each of these sliders is a CSS parameter that allows you to do whatever you want with the frame: compress, expand, rotate, reflect, stretch, etc.**
 
 - make all necessary transformations with the object, and ask the plugin to return it back to the figma. export button;
 
-![Crucius](~/assets/images/Crucius5.png)
+![Crucius](http://files.eduhund.com/crucius/5.png)
 
 - the plugin inserts this image back into the figma;
 
-![Crucius](~/assets/images/Crucius6.png)
+![Crucius](http://files.eduhund.com/crucius/6.png)
 
 - if you need a different perspective, do everything from the beginning: select an object, ask the plugin to pick it up and twist and turn until you're satisfied with the result.
 
