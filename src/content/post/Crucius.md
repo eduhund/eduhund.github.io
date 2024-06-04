@@ -2,8 +2,9 @@
 publishDate: 2024-04-17T00:00:00Z
 title: 'Crucius'
 excerpt: Figma plugin for quick transformation of the geometry of images/objects/frames
-image: 
-thumbnail: 
+image: ~/assets/images/crucius_main.jpg
+tags:
+thumbnail: ~/assets/images/crucius_thumbnail.jpg
 tags:
   - Figma plugin
   - geometry transformation
@@ -16,7 +17,7 @@ metadata:
 
 ## Origin 
 
-The idea for creating a Crucius plugin came from one of Neverhund's projects.
+The idea for creating a [Crucius](https://www.figma.com/community/plugin/1379456470658580472/crucius) plugin came from one of Neverhund's projects.
 
 The client has diagrams of venues where various events are held: concerts, shows, conferences, etc. The service that client is making contains seats diagrams/maps, sector and section locations in stadiums, venues and arenas. 
 
@@ -55,7 +56,7 @@ As a result, Crucius is a mini preview so that you can quickly and cheaply trans
 
 ### How Crucius works?
 
-- search for a plugin in the figma plugin library;
+- search for a plugin in the figma plugin library or follow this [link](https://www.figma.com/community/plugin/1379456470658580472/crucius);
 - run the plugin;
 - select the object (frame) in the figma. P.S. anything can be in a frame;
 - set the settings/parameters for transforming the content in the frame;
