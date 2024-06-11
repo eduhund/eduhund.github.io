@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-04-17T00:00:00Z
+publishDate: 2024-06-04T00:00:00Z
 title: 'Crucius'
 excerpt: Figma plugin for quick transformation of the geometry of images/objects/frames
 image: http://files.eduhund.com/crucius/Crucius.png

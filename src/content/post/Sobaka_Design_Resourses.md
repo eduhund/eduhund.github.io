@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-05-20T00:00:00Z
+publishDate: 2024-05-28T00:00:00Z
 title: 'Sobaka Design Resourses'
 excerpt: Icon library in Figma (936 icons)
 image: http://files.eduhund.com/SDR/cover.png
