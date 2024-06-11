@@ -1,7 +1,7 @@
 ---
 publishDate: 2024-06-10T00:00:00Z
 title: 'Muhtar'
-excerpt: Collective support via messengers
+excerpt: Bot for automating and simplifying business processes
 image: http://files.eduhund.com/Muhtar/Muhtar.png
 thumbnail: http://files.eduhund.com/Muhtar/Muhtar_thumbnail.png
 tags:
