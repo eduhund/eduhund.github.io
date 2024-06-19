@@ -52,6 +52,9 @@ export const headerData = {
         },
         {text: 'Muhtar',
           href: getPermalink('muhtar', 'post')
+        },
+        {text: 'Eddition',
+          href: getPermalink('eddition', 'post')
         }
       ],
     },
@@ -73,7 +76,8 @@ export const footerData = {
         { text: 'Trove', href: getPermalink('trove', 'post')},
         { text: 'Sobaka Design Resourses', href: getPermalink('sdr', 'post')}, 
         { text: 'Crucius', href: getPermalink('crucius', 'post')},
-        { text: 'Muhtar', href: getPermalink('muhtar', 'post')}
+        { text: 'Muhtar', href: getPermalink('muhtar', 'post')},
+        { text: 'Eddition', href: getPermalink('eddition', 'post')}
       ],
     },
     {
