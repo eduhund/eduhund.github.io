@@ -49,3 +49,7 @@ The script has [3 functions](https://script.google.com/a/macros/sobakapav.com/li
 - If you have an array of identical documents, Eddition will help you correct a systematic typo in all documents or make the same change (recolor a column, for example).
 
 Eddition, as a script, can only change literal values, formatting, conditional formatting, and work with formulas. It can't work with pictures.
+
+We also prepared an [Instruction](https://docs.google.com/document/d/1SgXgcQzQOdeKYKZjJiobHjRgyN1I9dum2Nexrzwff8Q/edit). 
+
+If you have questions or can’t understand the principles of this script work, write to us to **we@eduhund.com**, we’ll help :)
