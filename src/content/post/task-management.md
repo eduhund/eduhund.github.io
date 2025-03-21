@@ -2,7 +2,7 @@
 publishDate: 2025-03-21T00:00:00Z
 title: 'Task Management at the Speed of Thought'
 excerpt: How I Replaced Trello & Jira with Plain Text
-image: ~/assets/images/task-management/07 response.png
+image: ~/assets/images/task-management/07.png
 thumbnail: ~/assets/images/task-management/thumbnail.png
 tags:
   - article
@@ -39,7 +39,7 @@ The answer is contradictory and a bit old-fashioned: vim.
 
 Oh, come on, I know, I know. You might be someone who never understood all these :q! magical jinxes.
 
-![Task Management at the Speed of Thought](~/assets/images/task-management/01 empty.png)
+![Task Management at the Speed of Thought](~/assets/images/task-management/01.png)
 
 However, vim is not just a consumer text editor. It is not a text editor at all. It is a platform for developing your own text editors.
 
@@ -47,19 +47,19 @@ Here are some screenshots to explain.
 
 ## How to write down a task?
 
-![Task Management at the Speed of Thought](~/assets/images/task-management/03 next task.png)
+![Task Management at the Speed of Thought](~/assets/images/task-management/03.png)
 
 Just press Enter. Yes, that’s easy. No extra typing: you press Enter, and the system prepares a task template.
 
 ## How to mark a task as important?
 
-![Task Management at the Speed of Thought](~/assets/images/task-management/04 signs.png)
+![Task Management at the Speed of Thought](~/assets/images/task-management/04.png)
 
 Not only important but also any other priority. Just press !, #, ~, or any other appropriate sign. It’s your choice which one to use. My choice: ! # % + - / : > ? @ | ~ ± •
 
 ## How to organize tasks?
 
-![Task Management at the Speed of Thought](~/assets/images/task-management/05 parts.png)
+![Task Management at the Speed of Thought](~/assets/images/task-management/05.png)
 
 Here are some subheadings I use: ACTION WARM RESEARCH DONE NEVER LATER FIX DOCS TEST PUBLISH BACKLOG GOOD_ENOUGH INBOX
 
@@ -67,25 +67,25 @@ Each subheading should be mentioned next to its sign — this helps to sort line
 
 ## How to remember your structure?
 
-![Task Management at the Speed of Thought](~/assets/images/task-management/02 task.png)
+![Task Management at the Speed of Thought](~/assets/images/task-management/02.png)
 
 Look at the last line. It appears automatically. And you can change it.
 
 ## How to decompose any project into steps?
 
-![Task Management at the Speed of Thought](~/assets/images/task-management/06 modules.png)
+![Task Management at the Speed of Thought](~/assets/images/task-management/06.png)
 
 Or an epic into stories. Or a system into modules. Write down any name—nothing more. I mean, any name, really. You do not have to prepare or configure it separately.
 
 ## How to assign tasks to a person?
 
-![Task Management at the Speed of Thought](~/assets/images/task-management/07 response.png)
+![Task Management at the Speed of Thought](~/assets/images/task-management/07.png)
 
 Use hashtags at the end of the line.
 
 ## How to hide completed tasks?
 
-![Task Management at the Speed of Thought](~/assets/images/task-management/08 done.png)
+![Task Management at the Speed of Thought](~/assets/images/task-management/08.png)
 
 All completed (press +) tasks are hidden automatically.
 
@@ -95,7 +95,7 @@ Do nothing. **Or close and reopen the file**. The system sorts all tasks automat
 
 ## How to use tasks as a project backlog?
 
-![Task Management at the Speed of Thought](~/assets/images/task-management/09 backlog.png)
+![Task Management at the Speed of Thought](~/assets/images/task-management/09.png)
 
 Save the file as .backlog in your project’s Git directory. Nothing more.
 
