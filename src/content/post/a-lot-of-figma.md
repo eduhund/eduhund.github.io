@@ -37,7 +37,7 @@ First of all, create empty plugin — yes, right in your current project, not in
 
 Click `Plugins → Development → New plugin…`, and then accept the suggested options.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/1.png)
+![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/1.webp)
 ![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/2.png)
 
 Then, run it. Again, right in your current project.
