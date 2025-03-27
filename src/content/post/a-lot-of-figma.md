@@ -1,6 +1,6 @@
 ---
 publishDate: 2025-03-27T00:00:00Z
-title: 'A Bit of Code, a Lot of Figma'
+title: A Bit of Code, a Lot of Figma
 excerpt: For People Who Design, Not Develop
 image: ~/assets/images/a-lot-of-figma/12.png
 thumbnail: ~/assets/images/a-lot-of-figma/thumbnail.png
