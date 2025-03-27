@@ -14,7 +14,7 @@ metadata:
   description: For People Who Design, Not Develop
 ---
 
-As a design tool, Figma is one of a kind. As a software, [Figma](https://www.figma.com/) is actually quite similar to a web browser. So, you can use the same development tools that any frontend developer uses: [DevTools](https://developer.chrome.com/docs/devtools). It’s essentially a backdoor to any browser, allowing you to modify anything on the page you see at the moment, and to know anything about the page.
+As a design tool, (Figma](https://www.figma.com/) is one of a kind. As a software, Figma is actually quite similar to a web browser. So, you can use the same development tools that any frontend developer uses: [DevTools](https://developer.chrome.com/docs/devtools). It’s essentially a backdoor to any browser, allowing you to modify anything on the page you see at the moment, and to know anything about the page.
 
 Since Figma is a kind of browser, any Figma file is a kind of web page. It means, you can use DevTools to manage your Figma project with code. Draw with code, type text with code, change colors with code, create components, align frames, set values, you name it.
 
