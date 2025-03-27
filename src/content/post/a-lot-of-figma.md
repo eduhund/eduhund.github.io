@@ -37,14 +37,14 @@ First of all, create empty plugin — yes, right in your current project, not in
 
 Click `Plugins → Development → New plugin…`, and then accept the suggested options.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/1.webp)
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/2.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/1.webp)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/2.png)
 
 Then, run it. Again, right in your current project.
 
 Right-click → `Plugins → Development → console-coding`
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/3.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/3.png)
 
 ### Open Dev Tools
 Just click `Plugins → Development → Show/Hide console` menu item, and your Figma screen will transform drastically. Do it twice to hide all this stuff.
@@ -54,12 +54,12 @@ Now you’re ready to write code in Figma console. Let’s check it.
 
 Type `figma.currentPage` in console. And press Enter. Don’t worry about all those jumping lines, just do these simple steps.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/4.png)
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/5.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/4.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/5.png)
 
 Try to open the dropdown list.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/6.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/6.png)
 
 Congratulations! Now you can access your Figma project (and all its details) through console code. Time to do it right—and to do it often.
 
@@ -78,7 +78,7 @@ console.log(3*2.5 + 19/4 - 32);
 
 You’ll get the answer immediately.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/7.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/7.png)
 
 ### Simplify the Usage of figma.currentPage Object
 Instead of writing figma.currentPage every single time, just assign it to p :
@@ -89,7 +89,7 @@ p = figma.currentPage;
 
 You’ll see the contents of p immediately after running this command.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/8.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/8.png)
 
 ### Count the Document Pages or Top-Level Frames
 Get the number of pages in the document:
@@ -108,7 +108,7 @@ p.children.length;
 
 You’ll see the result immediately.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/9.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/9.png)
 
 ### Learn a Bit About Yourself
 You are the current user—so, ask about the current user:
@@ -118,7 +118,7 @@ figma.currentUser;
 Feel free to open the dropdown list:
 ```
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/10.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/10.png)
 
 ### Who Else Is Here?
 Ask something almost identical:
@@ -129,7 +129,7 @@ figma.activeUsers;
 
 Usually, you’re alone—but who knows?
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/11.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/11.png)
 
 ## Create a New Page or Clone an Existing One
 Each time you run this command, a new Page N appears:
@@ -148,7 +148,7 @@ tmpl.clone();
 ...
 ```
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/12.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/12.png)
 
 ## Now for Some Actually Useful Code Snippets 😵💫
 It’s time to use the Figma console to get more interesting results.
@@ -198,7 +198,7 @@ function bgd() { bg("#000000"); }
 bgd();        
 ```
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/13.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/13.png)
 
 Write once:…
 
@@ -212,7 +212,7 @@ function bgl() {bg("#ffffff"); }
 bgl();
 ```
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/14.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/14.png)
 
 Instead of bgd or bgl, feel free to invent your own command name. And yes—parenthesis are required.
 
@@ -235,7 +235,7 @@ Run it as many times as you like.
 
 > By the way, you’ve just encountered **object-oriented programming**. See that class keyword? New badge, new achievement, new level. That’s great — no kidding.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/15.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/15.png)
 
 ### Create 100+ Frames in a Line at Once
 First, create a function that you can reuse as many times as you like.
@@ -248,11 +248,11 @@ function fc(number, space_x, space_y) { const frame = figma.currentPage.selectio
 
 Then, create the frame you want to clone. It can be as complex as you need. If you’ve already created the frame—great! You do not need to do anything.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/16.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/16.png)
 
 Now select that frame.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/17.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/17.png)
 
 And run:
 
@@ -260,7 +260,7 @@ And run:
 fc(100, 7, 3);
 ```
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/18.png)
+![A Bit of Code, a Lot of Figma](~/assets/images/a-lot-of-figma/18.png)
 
 > Play around with fc() parameters: number — how many new frames to create; space_x and space_y — distance between their top-left corners.
 
