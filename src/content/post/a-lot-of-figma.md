@@ -37,14 +37,14 @@ First of all, create empty plugin — yes, right in your current project, not in
 
 Click `Plugins → Development → New plugin…`, and then accept the suggested options.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/01.png)
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/02.png)
+![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/1.png)
+![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/2.png)
 
 Then, run it. Again, right in your current project.
 
 Right-click → `Plugins → Development → console-coding`
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/03.png)
+![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/3.png)
 
 ### Open Dev Tools
 Just click `Plugins → Development → Show/Hide console` menu item, and your Figma screen will transform drastically. Do it twice to hide all this stuff.
@@ -54,12 +54,12 @@ Now you’re ready to write code in Figma console. Let’s check it.
 
 Type `figma.currentPage` in console. And press Enter. Don’t worry about all those jumping lines, just do these simple steps.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/04.png)
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/05.png)
+![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/4.png)
+![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/5.png)
 
 Try to open the dropdown list.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/06.png)
+![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/6.png)
 
 Congratulations! Now you can access your Figma project (and all its details) through console code. Time to do it right—and to do it often.
 
@@ -78,7 +78,7 @@ console.log(3*2.5 + 19/4 - 32);
 
 You’ll get the answer immediately.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/07.png)
+![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/7.png)
 
 ### Simplify the Usage of figma.currentPage Object
 Instead of writing figma.currentPage every single time, just assign it to p :
@@ -89,7 +89,7 @@ p = figma.currentPage;
 
 You’ll see the contents of p immediately after running this command.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/08.png)
+![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/8.png)
 
 ### Count the Document Pages or Top-Level Frames
 Get the number of pages in the document:
@@ -108,7 +108,7 @@ p.children.length;
 
 You’ll see the result immediately.
 
-![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/09.png)
+![Task Management at the Speed of Thought](~/assets/images/a-lot-of-figma/9.png)
 
 ### Learn a Bit About Yourself
 You are the current user—so, ask about the current user:
