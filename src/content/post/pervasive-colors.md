@@ -1,4 +1,3 @@
-
 ---
 publishDate: 2025-04-09T00:00:00Z
 title: Pervasive Colors by Name
